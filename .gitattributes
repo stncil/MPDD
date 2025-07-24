@@ -1,1 +1,5 @@
 # Git LFS configuration removed - using standard Git for all files
+anomaly_dataset_og/** filter=lfs diff=lfs merge=lfs -text
+
+
+
