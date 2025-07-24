@@ -9,3 +9,7 @@ tqdm
 tensorboard
 seaborn
 pandas
+albumentations 
+einops 
+ninja
+pytorch-lightning

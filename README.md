@@ -3,11 +3,7 @@
 Computer Vision anomaly detection system for industrial quality control.
 
 ## Dataset Structure
-anomaly_dataset_og/
-├── bracket_black/ # Black bracket components
-├── bracket_brown/ # Brown bracket components
-├── bracket_white/ # White components
-├── metal_plate/ # Metal plate 
+Dataset_README.md
 
 ## Getting Started
 
